@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  background: black;
+  max-width: 900px;
+  padding: 5px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.first-button {
+  background: #595959;
+  color: white;
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+}
+
+.second-button {
+  background: #595959;
+  color: white;
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+}
+
+.third-button {
+  background: #595959;
+  color: white;
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+}
+
+.fourth-button {
+  background: #595959;
+  color: white;
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+}
+
+.container .focused {
+  background-color: #e600ac;
+}
+
+.root {
+  height: 1000px;
+  padding: 10px;
+  background: #0c101c;
+}

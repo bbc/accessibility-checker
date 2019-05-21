@@ -1,0 +1,33 @@
+.result-container {
+  border: 1px solid black;
+  width: 203px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  padding: 5px;
+  background: #595959;
+  color: white;
+}
+
+.node-list {
+  background: black;
+  max-width: 910px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+.result-element {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.result-list {
+  margin-top: 3px;
+  margin-bottom: 8px;
+}
+
+.result-text {
+  color: #ff33cc;
+}
